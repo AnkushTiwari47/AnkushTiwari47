@@ -27,8 +27,12 @@ Full-Stack MERN Developer • DSA Learner • Open Source Enthusiast
 
 <p align="left">
 
-<a href="https://portfolio-ankush-tiwari.vercel.app/">
+<a href="www.linkedin.com/in/ankush-tiwari-002900348/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-ankush-tiwari.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:at0017876@gmail.com">
@@ -89,7 +93,7 @@ Full-Stack MERN Developer • DSA Learner • Open Source Enthusiast
 
 # 🚀 Featured Projects
 
-## 🏠 StayFinder *(Currently Building)*
+## 🏠 StayHub *(Currently Building)*
 
 A Full-Stack MERN accommodation booking platform inspired by Airbnb.
 
@@ -104,7 +108,7 @@ A Full-Stack MERN accommodation booking platform inspired by Airbnb.
 - 👤 User Dashboard
 
 **Repository:**  
-YOUR_STAYFINDER_REPO
+https://github.com/AnkushTiwari47/stayHub
 
 **Live Demo:**  
 YOUR_STAYFINDER_DEMO
@@ -126,10 +130,29 @@ A Full-Stack platform connecting students and teachers.
 - 🤝 Connection Requests
 
 **Repository:**  
-YOUR_EDULINK_REPO
+https://github.com/AnkushTiwari47/Edulink
 
 **Live Demo:**  
 https://edulink-wbum.onrender.com
+
+# 🌐 Portfolio
+
+My personal portfolio showcasing my projects, technical skills, and achievements.
+
+### Features
+
+- 📱 Fully Responsive
+- ⚡ Fast Performance
+- 🎨 Modern UI
+- 📂 Featured Projects
+- 📞 Contact Form
+- 🌙 Clean Design
+
+🔗 Live Website:
+https://portfolio-ankush-tiwari.vercel.app
+
+🔗 Repository:
+https://github.com/AnkushTiwari47/Portfolio
 
 ---
 
@@ -157,7 +180,7 @@ https://edulink-wbum.onrender.com
 
 # 💻 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AnkushTiwari47
+(https://leetcard.jacoblin.cool/AnkushTiwari47
 ?theme=dark&font=Poppins&ext=contest)
 
 ---
