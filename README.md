@@ -180,7 +180,7 @@ https://github.com/AnkushTiwari47/Portfolio
 
 # 💻 LeetCode Stats
 
-(https://leetcard.jacoblin.cool/AnkushTiwari47
+(https://leetcard.jacoblin.cool/Ankush_tiwari2047
 ?theme=dark&font=Poppins&ext=contest)
 
 ---
