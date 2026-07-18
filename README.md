@@ -27,7 +27,7 @@ Full-Stack MERN Developer • DSA Learner • Open Source Enthusiast
 
 <p align="left">
 
-<a href="www.linkedin.com/in/ankush-tiwari-002900348/">
+<a href="https://www.linkedin.com/in/ankush-tiwari-002900348/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
