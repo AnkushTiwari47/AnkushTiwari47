@@ -135,8 +135,8 @@ https://github.com/AnkushTiwari47/Edulink
 **Live Demo:**  
 https://edulink-wbum.onrender.com
 
-<p align="center">
-<img src="./Screenshot 2026-07-18 193509.png" width="850"/>
+<p >
+<img src="./Screenshot 2026-07-18 193509.png" width="500"/>
 </p>
 
 # 🌐 Portfolio
@@ -157,6 +157,9 @@ https://portfolio-ankush-tiwari.vercel.app
 
 🔗 Repository:
 https://github.com/AnkushTiwari47/Portfolio
+<p >
+<img src="./Screenshot 2026-07-18 193817.png" width="500"/>
+</p>
 
 ---
 
