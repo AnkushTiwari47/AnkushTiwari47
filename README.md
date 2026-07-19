@@ -135,6 +135,10 @@ https://github.com/AnkushTiwari47/Edulink
 **Live Demo:**  
 https://edulink-wbum.onrender.com
 
+<p align="center">
+<img src="screenshot 2026-07-18 193509.png" width="850"/>
+</p>
+
 # 🌐 Portfolio
 
 My personal portfolio showcasing my projects, technical skills, and achievements.
