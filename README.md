@@ -137,7 +137,8 @@ A Full-Stack platform connecting students and teachers.
 
 <td width="45%">
 <img src="./Screenshot 2026-07-18 193509.png" width="100%">
-  <img src="./Screenshot 2026-07-18 193509.png" width="100%">
+  <img src="./Screenshot 2026-07-20 011816.png" width="100%">
+  <img src="./Screenshot 2026-07-20 011905.png" width="100%">
 </td>
 
 </tr>
