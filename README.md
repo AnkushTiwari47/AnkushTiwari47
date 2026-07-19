@@ -136,7 +136,7 @@ https://github.com/AnkushTiwari47/Edulink
 https://edulink-wbum.onrender.com
 
 <p align="center">
-<img src="./screenshot 2026-07-18 193509.png" width="850"/>
+<img src="./Screenshot 2026-07-18 193509.png" width="850"/>
 </p>
 
 # 🌐 Portfolio
