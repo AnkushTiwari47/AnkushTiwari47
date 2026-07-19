@@ -114,30 +114,36 @@ https://github.com/AnkushTiwari47/stayHub
 YOUR_STAYFINDER_DEMO
 
 ---
+<table>
+<tr>
+<td width="55%">
 
 ## 📚 EduLink
 
 A Full-Stack platform connecting students and teachers.
 
 ### Features
-
-- 🔐 Authentication & Authorization
+- 🔐 Authentication
+- 💬 Real-time Chat
 - 👨‍🏫 Teacher Search
-- 📝 Student Requirement Posts
-- 💬 Real-Time Chat (Socket.io)
+- 📋 Student Requirement Posts
 - 📊 Dashboard
-- 👤 Profile Management
-- 🤝 Connection Requests
 
-**Repository:**  
-https://github.com/AnkushTiwari47/Edulink
+🔗 **Repository:** https://github.com/AnkushTiwari47/Edulink
 
-**Live Demo:**  
-https://edulink-wbum.onrender.com
+🌐 **Live:** https://edulink-wbum.onrender.com
 
-<p >
-<img src="./Screenshot 2026-07-18 193509.png" width="500"/>
-</p>
+</td>
+
+<td width="45%">
+<img src="./Screenshot 2026-07-18 193509.png" width="100%">
+</td>
+
+</tr>
+</table>
+
+
+
 
 # 🌐 Portfolio
 
